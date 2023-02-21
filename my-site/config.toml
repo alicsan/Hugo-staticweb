@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Alicia's place"
+
+theme = 'hyde'
+
+[params]
+
+description = "This is a place where I will show my dailies updates regarding my job and/or personal projects. "
